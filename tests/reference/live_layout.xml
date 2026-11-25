@@ -1,0 +1,156 @@
+<PanelFile ID="ID_UISkin_AvatarPanel">
+	<Element ID="AvatarPanel" X="2" Y="2" Width="280" Height="300">
+		<Element ID="VitalsParent" X="0" Y="20" Width="300" Height="300">
+			<Element ID="ViewportParent" X="0" Y="0" Width="300" Height="300">
+				<Element ID="PlayerPortrait" X="21" Y="21" Width="62" Height="62"> </Element>
+			</Element>
+			<Element ID="PanelParent" X="0" Y="0" Width="300" Height="300">
+				<Element ID="PlayerLevel_HWField" X="32" Y="82" Width="38" Height="17">
+					<Element ID="PlayerLevel" X="0" Y="1" Width="36" Height="17"> </Element>
+				</Element>
+				<Element ID="PlayerName" X="87" Y="3" Width="191" Height="36"> </Element>
+				<Element ID="PlayerVitals_Animations" X="2" Y="0" Width="277" Height="104"> </Element>
+				<Element ID="PlayerScaledLevel_HWField" X="32" Y="82" Width="38" Height="17">
+					<Element ID="PlayerScaledLevel" X="0" Y="1" Width="36" Height="17">
+						<Element ID="PlayerScaledLevel" X="0" Y="1" Width="15" Height="15"> </Element>
+					</Element>
+				</Element>
+				<Element ID="AvatarPanel_COVER_LOWRES" X="19" Y="19" Width="62" Height="62"> </Element>
+				<Element ID="LoE_VitalsField" X="64" Y="58" Width="224" Height="40"> </Element>
+				<Element ID="PlayerLevel_BG" X="19" Y="76" Width="65" Height="32"> </Element>
+				<Element ID="PlayerEffectDisplay_Spacer" X="92" Y="74" Width="1" Height="15"> </Element>
+				<Element ID="PlayerLeaderIcon" X="74" Y="68" Width="16" Height="16"> </Element>
+				<Element ID="PlayerEffectDisplay" X="92" Y="74" Width="169" Height="200"> </Element>
+				<Element ID="PlayerVoiceChatSquelched" X="71" Y="11" Width="20" Height="20"> </Element>
+				<Element ID="PlayerAssistantIcon" X="74" Y="68" Width="16" Height="16"> </Element>
+				<Element ID="PlayerVoiceChat" X="71" Y="11" Width="20" Height="20"> </Element>
+				<Element ID="PlayerSendingData" X="71" Y="11" Width="20" Height="20"> </Element>
+				<Element ID="PlayerPVP_Info" X="-4" Y="-3" Width="34" Height="98">
+					<Element ID="PlayerPVP_RankDisplay" X="2" Y="0" Width="32" Height="32"> </Element>
+				</Element>
+				<Element ID="VitalsBg" X="88" Y="37" Width="175" Height="27"> </Element>
+				<Element ID="VitalsField" X="96" Y="33" Width="164" Height="42"> </Element>
+				<Element ID="AvatarPanel_BG" X="-1" Y="0" Width="273" Height="124"> </Element>
+			</Element>
+		</Element>
+	</Element>
+</PanelFile>
+<PanelFile ID="ID_UISkin_OpponentPanel">
+	<Element ID="OpponentPanel" X="279" Y="2" Width="305" Height="300">
+		<Element ID="VitalsParentOpponent" X="0" Y="20" Width="305" Height="300">
+			<Element ID="OpponentDisplayParent" X="0" Y="0" Width="302" Height="300">
+				<Element ID="OpponentViewportParent" X="0" Y="0" Width="300" Height="300">
+					<Element ID="OpponentPortrait" X="214" Y="19" Width="62" Height="62">
+						<Element ID="Target_Image" X="0" Y="0" Width="62" Height="62"> </Element>
+					</Element>
+				</Element>
+				<Element ID="OpponentPanelParent" X="0" Y="0" Width="300" Height="300">
+					<Element ID="Opponent_SelectionField" X="-8" Y="0" Width="304" Height="120">
+						<Element ID="OpponentVitals_Animations" X="28" Y="-1" Width="277" Height="104"> </Element>
+						<Element ID="OpponentLevel_HWField" X="232" Y="82" Width="38" Height="17">
+							<Element ID="OpponentLevel" X="0" Y="1" Width="36" Height="17"> </Element>
+						</Element>
+						<Element ID="OpponentPanel_COVER_LOWRES" X="221" Y="20" Width="62" Height="62"> </Element>
+						<Element ID="OpponentLevel_BG" X="220" Y="78" Width="65" Height="32"> </Element>
+						<Element ID="OpponentsVitals_BG" X="44" Y="37" Width="176" Height="32"> </Element>
+						<Element ID="OpponentPVP_RankDisplay" X="274" Y="-3" Width="32" Height="32"> </Element>
+						<Element ID="OpponentVitalsField" X="44" Y="33" Width="168" Height="42"> </Element>
+						<Element ID="OpponentPanel_BG" X="31" Y="0" Width="273" Height="124"> </Element>
+						<Element ID="OpponentClass" X="211" Y="72" Width="20" Height="20"> </Element>
+						<Element ID="OpponentName" X="2" Y="3" Width="216" Height="36"> </Element>
+						<Element ID="OpponentLevelHiddenSkull" X="220" Y="79" Width="65" Height="32"> </Element>
+					</Element>
+					<Element ID="OpponentOpenTapping" X="12" Y="37" Width="36" Height="36">
+						<Element ID="OpponentOpenTapping_TutorialHighlight" X="2" Y="0" Width="30" Height="34"> </Element>
+					</Element>
+					<Element ID="OpponentDisplay_BigBattlesMedalImageField" X="0" Y="40" Width="32" Height="32"> </Element>
+					<Element ID="OpponentEffectDisplay" X="37" Y="74" Width="170" Height="200"> </Element>
+				</Element>
+			</Element>
+			<Element ID="InanimateObject_SelectionField" X="40" Y="1" Width="228" Height="84">
+				<Element ID="InanimateObject_BigBattlesMedalImageField" X="0" Y="40" Width="32" Height="32"> </Element>
+				<Element ID="InanimateObjectPanel_BG" X="7" Y="26" Width="215" Height="51"> </Element>
+				<Element ID="InanimateObjectForeground" X="-2" Y="19" Width="231" Height="66"> </Element>
+				<Element ID="InanimateObjectName" X="11" Y="29" Width="205" Height="47"> </Element>
+			</Element>
+		</Element>
+		<Element ID="LockOnOverlay" X="278" Y="33" Width="31" Height="31"> </Element>
+	</Element>
+</PanelFile>
+<PanelFile ID="ID_UISkin_Toolbar">
+	<Element ID="ToolbarField" X="0" Y="568" Width="1024" Height="200">
+		<Element ID="ToolbarButton_Slot_3" X="98" Y="157" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_MainMenu_TutorialHighlight_LoginRewardsWindowClosed" X="3" Y="131" Width="38" Height="53">
+			<Element ID="TutorialArrowPointer" X="19" Y="0" Width="1" Height="1"> </Element>
+		</Element>
+		<Element ID="ToolbarButton_Slot_4" X="126" Y="147" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_Slot_5" X="154" Y="158" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_Slot_6" X="182" Y="147" Width="25" Height="25"> </Element>
+		<Element ID="Toolbar_Quickslot_Page" X="736" Y="136" Width="25" Height="64">
+			<Element ID="Toolbar_Quickslot_Page" X="-5" Y="0" Width="31" Height="64"> </Element>
+		</Element>
+		<Element ID="Toolbar_Quickslot" X="320" Y="147" Width="420" Height="35"> </Element>
+		<Element ID="ToolbarButton_Slot_7" X="210" Y="158" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarFieldMain" X="0" Y="110" Width="1024" Height="90"> </Element>
+		<Element ID="Toolbar_WebstoreButton" X="962" Y="122" Width="66" Height="69">
+			<Element ID="Toolbar_WebstoreButton_ButtonLabel" X="13" Y="31" Width="42" Height="20"> </Element>
+			<Element ID="Toolbar_WebstoreButton_ButtonLable_Store" X="10" Y="42" Width="48" Height="20"> </Element>
+		</Element>
+		<Element ID="ToolbarFieldMain_LevelMeter_Left_Cap" X="0" Y="187" Width="17" Height="13"> </Element>
+		<Element ID="GamePlay_FervorPipDisplay" X="233" Y="110" Width="90" Height="42"> </Element>
+		<Element ID="Gameplay_AtunementUI" X="234" Y="111" Width="88" Height="60"> </Element>
+		<Element ID="ToolbarFieldMain_LevelMeter_Right_Cap" X="1009" Y="187" Width="17" Height="13"> </Element>
+		<Element ID="GamePlay_AimPipDisplay" X="233" Y="110" Width="90" Height="42"> </Element>
+		<Element ID="ToolbarFieldMain_LevelMeter_Mid_Left_Cap" X="397" Y="187" Width="16" Height="13"> </Element>
+		<Element ID="WebstoreButton_TutorialHighlight" X="963" Y="120" Width="61" Height="69">
+			<Element ID="TutorialArrowPointer" X="31" Y="0" Width="1" Height="1"> </Element>
+		</Element>
+		<Element ID="ToolbarFieldMain_LevelMeter_Mid_Right_Cap" X="608" Y="187" Width="16" Height="13"> </Element>
+		<Element ID="LevelMeter" X="1" Y="181" Width="1024" Height="30">
+			<Element ID="LevelMeterFill" X="5" Y="7" Width="1015" Height="11">
+				<Element ID="LevelMeter_VIPRestMeter" X="0" Y="0" Width="1015" Height="11"> </Element>
+				<Element ID="LevelMeter_PurchasedRestMeter" X="0" Y="0" Width="1015" Height="11"> </Element>
+			</Element>
+			<Element ID="ToolbarButton_RestXP_TutorialHighlight" X="2" Y="3" Width="1019" Height="17">
+				<Element ID="TutorialArrowPointer" X="137" Y="0" Width="1" Height="1"> </Element>
+			</Element>
+			<Element ID="ToolbarButton_LevelUpXP_TutorialHighlight" X="2" Y="3" Width="1019" Height="17"> </Element>
+			<Element ID="ToolbarButton_Experience_TutorialHighlight" X="2" Y="3" Width="1019" Height="17">
+				<Element ID="TutorialArrowPointer" X="137" Y="0" Width="1" Height="1"> </Element>
+			</Element>
+			<Element ID="LevelMeterText" X="0" Y="5" Width="1020" Height="15"> </Element>
+			<Element ID="ToolbarFieldMain_LevelMeter_Glass_Overlay" X="5" Y="7" Width="1015" Height="11"> </Element>
+		</Element>
+		<Element ID="ToolbarButton_RightSlot_1" X="762" Y="158" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_MainMenu_TutorialHighlight" X="3" Y="131" Width="38" Height="53">
+			<Element ID="TutorialArrowPointer" X="19" Y="0" Width="1" Height="1"> </Element>
+		</Element>
+		<Element ID="ToolbarButton_RightSlot_2" X="787" Y="147" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_RightSlot_3" X="812" Y="158" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_RightSlot_4" X="837" Y="147" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_RightSlot_6" X="887" Y="146" Width="25" Height="25"> </Element>
+		<Element ID="ToolBarButton_MainMenu" X="6" Y="138" Width="30" Height="45"> </Element>
+		<Element ID="ToolbarButton_RightSlot_5" X="862" Y="157" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_RightSlot_7" X="912" Y="157" Width="25" Height="25"> </Element>
+		<Element ID="GamePlay_VenomPipDisplay" X="228" Y="103" Width="100" Height="50"> </Element>
+		<Element ID="GamePlay_RampagePipDisplay" X="233" Y="85" Width="105" Height="67"> </Element>
+		<Element ID="AutoAttackIndicatorButton" X="246" Y="128" Width="63" Height="63"> </Element>
+		<Element ID="ToolbarButton_QuickslotPage_TutorialHighlight" X="733" Y="138" Width="31" Height="56">
+			<Element ID="TutorialArrowPointer" X="40" Y="0" Width="1" Height="1"> </Element>
+		</Element>
+		<Element ID="ToolbarButton_Slot_1" X="42" Y="158" Width="25" Height="25"> </Element>
+		<Element ID="ViolentModeIndicator" X="246" Y="128" Width="63" Height="63"> </Element>
+		<Element ID="GamePlay_MettlePipDisplay" X="233" Y="110" Width="90" Height="42"> </Element>
+		<Element ID="ToolbarButton_CustomizeSlots" X="231" Y="169" Width="26" Height="19"> </Element>
+		<Element ID="ToolbarButton_RightSlot_8" X="937" Y="146" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_Slot_2" X="70" Y="147" Width="25" Height="25"> </Element>
+		<Element ID="ToolbarButton_AutoAttack_TutorialHighlight" X="241" Y="110" Width="80" Height="78">
+			<Element ID="TutorialArrowPointer" X="40" Y="0" Width="0" Height="0"> </Element>
+		</Element>
+	</Element>
+</PanelFile>
+<PanelFile ID="ID_UISkin_Toolbar_Quickslot_Extended_Scaler">
+	<Element ID="Toolbar_Quickslot_Extended_Scaler" X="280" Y="521" Width="460" Height="175">
+		<Element ID="Toolbar_Quickslot_Extended" X="40" Y="0" Width="420" Height="175"> </Element>
+	</Element>
+</PanelFile>

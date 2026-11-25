@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opt>
+	<SkinName Name="EffectsOnly"></SkinName>
+	<Mapping ArtAssetID="Icon_LockTarget" FileName="blank_30x30.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_111_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_111_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_11_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_11_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_1_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_1_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_222_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_222_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_22_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_22_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_2_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_2_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_333_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_333_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_33_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_33_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_3_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_3_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_444_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_444_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_44_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_44_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_4_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_4_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_555_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_555_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_55_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_55_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_5_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="icon_pvp_rank_5_monsterplayer_32" FileName="blank_32x32.tga"></Mapping>
+	<Mapping ArtAssetID="level_background" FileName="blank_62x31.tga"></Mapping>
+	<Mapping ArtAssetID="level_background_portrait_borders" FileName="blank_62x31.tga"></Mapping>
+	<Mapping ArtAssetID="level_background_rare" FileName="blank_62x31.tga"></Mapping>
+	<Mapping ArtAssetID="level_background_red" FileName="blank_62x31.tga"></Mapping>
+	<Mapping ArtAssetID="level_background_scion" FileName="blank_62x31.tga"></Mapping>
+	<Mapping ArtAssetID="monster_vitals_lowrescover" FileName="blank_63x63.tga"></Mapping>
+	<Mapping ArtAssetID="opponenet_vitals_legendary_isengard" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_progress_overlay_center" FileName="blank_60x24.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_progress_overlay_left" FileName="blank_24x24.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_progress_overlay_right" FileName="blank_21x24.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_10_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_10_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_11_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_11_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_12_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_12_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_13_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_13_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_14_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_14_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_15_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_15_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_16_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_16_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_17_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_17_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_18_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_18_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_19_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_19_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_1_year" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_1_year_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier1" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier2" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_tier3" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_2022_supporter_yule" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_2_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_2_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_3_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_3_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_4_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_4_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_5_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_5_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_6_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_6_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_7_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_7_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_8_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_8_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_9_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_9_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_avenger_good" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_avenger_good_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_azanulbizar" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_dagorlad_flora" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_defender_good" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_defender_good_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_dragon_mp_black" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_dragon_mp_blue" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_dragon_mp_gold" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_dragon_mp_green" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_dragon_mp_red" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_dragon_mp_white" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_elite" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_elite_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_elitemaster_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_hero_good" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_hero_good_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_KharumUbnar" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_moria_dwarf" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_moria_elf" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_nazgul" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_rohan" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_account" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_endgame" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legendary_server_instance" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legserv_ang_barter" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legserv_ang_instance" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_legserv_lvl_fifteen" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_master_defender_good" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_master_defender_good_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_minas_morgul" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_mordor_10_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_mtgo_promo_samwise" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_northithilien_flora" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_raid_khazad_dum" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_rhosgobel_animal" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_scion" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_signature" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_signature_good" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_signature_good_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_signature_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_sigplus_scion" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_supporter_2023_river_hobbit" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u39_raid_umbar" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u41_birding_t1" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u41_birding_t2" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u41_birding_t3" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u41_birding_t4" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u41_birding_t5" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u42_base" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u42_collector" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u42_ultimate" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_malice_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_malice_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_nemesis_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_nemesis_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_scorn_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_scorn_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_spirit_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U45_spirit_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U47_rivals_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U47_rivals_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U48_feasts_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U48_feasts_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U49_frozen_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_U49_frozen_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u50_neighbors_bree" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u50_neighbors_lothlorien" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u50_neighbors_shire" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_u50_neighbors_thorin" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_umbar_fleet_merchant" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_umbar_swashbuckler" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_umbar_swashbucklers" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_umbar_tide_breaker" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_VIP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_backdrop_VIP_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_gundabad_geode" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_gundabad_gloomingtarn" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_gundabad_steepset" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_legendary_enedwaith" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_legendary_gondor" FileName="blank_273x125.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_legendary_greymountains" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_legendary_helms_deep" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_legendary_minasmorgul" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_legendary_mordor" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_legendary_wastes" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_open_tapped" FileName="blank_36x36.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_open_tapped_contributing" FileName="blank_36x36.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_open_tapped_engaged" FileName="blank_47x36.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_post_raid_U32" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_basic" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_best" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_sons_of_elrond_better" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_three_peaks" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_wedding_festival" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="opponent_vitals_winter_festival" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_10_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_10_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_11_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_11_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_12_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_12_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_13_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_13_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_14_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_14_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_15_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_15_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_16_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_16_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_17_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_17_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_18_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_18_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_19_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_19_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_1_year" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_1_year_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier1" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier2" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_tier3" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_2022_supporter_yule" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_2_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_2_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_3_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_3_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_4_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_4_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_5_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_5_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_6_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_6_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_7_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_7_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_8_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_8_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_9_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_9_years_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_azanulbizar" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_dagorlad_flora" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_dragon_mp_black" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_dragon_mp_blue" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_dragon_mp_gold" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_dragon_mp_green" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_dragon_mp_red" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_dragon_mp_white" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_KharumUbnar" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legendary_moria_dwarf" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legendary_moria_elf" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legendary_nazgul" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legendary_rohan" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_account" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_endgame" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legendary_server_instance" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legserv_ang_barter" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legserv_ang_instance" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_legserv_lvl_fifteen" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_minas_morgul" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_mordor_10_years" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_mtgo_promo_samwise" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_northithilien_flora" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_raid_khazad_dum" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_rhosgobel_animal" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_supporter_2023_river_hobbit" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u39_raid_umbar" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u41_birding_t1" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u41_birding_t2" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u41_birding_t3" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u41_birding_t4" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u41_birding_t5" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u42_base" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u42_collector" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_u42_ultimate" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_malice_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_malice_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_nemesis_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_nemesis_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_scorn_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_scorn_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_spirit_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U45_spirit_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U47_rivals_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U47_rivals_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U48_feasts_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U48_feasts_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U49_frozen_FP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U49_frozen_MP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U50_neighbors_bree" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U50_neighbors_lothlorien" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U50_neighbors_shire" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_U50_neighbors_thorin" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_umbar_fleet_merchant" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_umbar_swashbuckler" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_umbar_tide_breaker" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_VIP" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_backdrop_VIP_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_gundabad_geode" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_gundabad_gloomingtarn" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_gundabad_steepset" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_enedwaith" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_gondor" FileName="blank_273x125.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_greymountains" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_helms_deep" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_isengard" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_minasmorgul" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_mordor" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_legendary_wastes" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_lowrescover" FileName="blank_63x63.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_post_raid_U32" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_sons_of_elrond_basic" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_sons_of_elrond_best" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_sons_of_elrond_better" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_three_peaks" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_wedding_festival" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="player_vitals_winter_festival" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_1_and_half_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_1_and_half_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_1_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_1_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_2_and_half_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_2_and_half_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_2_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_2_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_3_and_half_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_3_and_half_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_3_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_3_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_4_and_half_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_4_and_half_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_4_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_4_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_5_stars_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_5_stars_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_rank_half_star_opponent" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="pvp_rank_half_star_opponent_monsterplayer_stars" FileName="blank_34x78.tga"></Mapping>
+	<Mapping ArtAssetID="selection_inanimate_backdrop" FileName="blank_229x65.tga"></Mapping>
+	<Mapping ArtAssetID="swarm_vitals" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="swarm_vitals_mp" FileName="blank_273x124.tga"></Mapping>
+	<Mapping ArtAssetID="swarm_vitals_scion" FileName="blank_273x124.tga"></Mapping>
+	<PanelFile ID="ID_UISkin_AvatarPanel">
+		<Element ID="AvatarPanel" X="2" Y="2" Width="280" Height="300">
+			<Element ID="VitalsParent" X="0" Y="20" Width="300" Height="300">
+				<Element ID="ViewportParent" X="-2000" Y="-2000" Width="300" Height="300"></Element>
+				<Element ID="PanelParent" X="0" Y="0" Width="300" Height="300">
+					<Element ID="PlayerLevel_HWField" X="-1968" Y="-1918" Width="38" Height="17"></Element>
+					<Element ID="PlayerName" X="-1913" Y="-1997" Width="191" Height="36"></Element>
+					<Element ID="PlayerVitals_Animations" X="-1998" Y="-2000" Width="277" Height="104"></Element>
+					<Element ID="PlayerScaledLevel_HWField" X="-1968" Y="-1918" Width="38" Height="17"></Element>
+					<Element ID="AvatarPanel_COVER_LOWRES" X="-1981" Y="-1981" Width="62" Height="62"></Element>
+					<Element ID="LoE_VitalsField" X="-1936" Y="-1942" Width="224" Height="40"></Element>
+					<Element ID="PlayerLevel_BG" X="-1981" Y="-1924" Width="65" Height="32"></Element>
+					<Element ID="PlayerLeaderIcon" X="-1926" Y="-1932" Width="16" Height="16"></Element>
+					<Element ID="PlayerVoiceChatSquelched" X="-1929" Y="-1989" Width="20" Height="20"></Element>
+					<Element ID="PlayerAssistantIcon" X="-1926" Y="-1932" Width="16" Height="16"></Element>
+					<Element ID="PlayerVoiceChat" X="-1929" Y="-1989" Width="20" Height="20"></Element>
+					<Element ID="PlayerSendingData" X="-1929" Y="-1989" Width="20" Height="20"></Element>
+					<Element ID="PlayerPVP_Info" X="-2004" Y="-2003" Width="34" Height="98"></Element>
+					<Element ID="VitalsBg" X="-1912" Y="-1963" Width="175" Height="27"></Element>
+					<Element ID="VitalsField" X="-1904" Y="-1967" Width="164" Height="42"></Element>
+				</Element>
+			</Element>
+		</Element>
+	</PanelFile>
+	<PanelFile ID="ID_UISkin_OpponentPanel">
+		<Element ID="OpponentPanel" X="279" Y="2" Width="305" Height="300">
+			<Element ID="VitalsParentOpponent" X="0" Y="20" Width="305" Height="300">
+				<Element ID="OpponentDisplayParent" X="0" Y="0" Width="302" Height="300">
+					<Element ID="OpponentViewportParent" X="-2000" Y="-2000" Width="300" Height="300"></Element>
+					<Element ID="OpponentPanelParent" X="0" Y="0" Width="300" Height="300">
+						<Element ID="Opponent_SelectionField" X="-8" Y="0" Width="304" Height="120">
+							<Element ID="OpponentVitals_Animations" X="-1972" Y="-2001" Width="277" Height="104"></Element>
+							<Element ID="OpponentLevel_HWField" X="-1768" Y="-1918" Width="38" Height="17"></Element>
+							<Element ID="OpponentPanel_COVER_LOWRES" X="-1779" Y="-1980" Width="62" Height="62"></Element>
+							<Element ID="OpponentLevel_BG" X="-1780" Y="-1922" Width="65" Height="32"></Element>
+							<Element ID="OpponentsVitals_BG" X="-1956" Y="-1963" Width="176" Height="32"></Element>
+							<Element ID="OpponentPVP_RankDisplay" X="-1726" Y="-2003" Width="32" Height="32"></Element>
+							<Element ID="OpponentVitalsField" X="-1956" Y="-1967" Width="168" Height="42"></Element>
+							<Element ID="OpponentClass" X="-1789" Y="-1928" Width="20" Height="20"></Element>
+							<Element ID="OpponentName" X="-1998" Y="-1997" Width="216" Height="36"></Element>
+							<Element ID="OpponentLevelHiddenSkull" X="-1780" Y="-1921" Width="65" Height="32"></Element>
+						</Element>
+						<Element ID="OpponentOpenTapping" X="-1988" Y="-1963" Width="36" Height="36"></Element>
+						<Element ID="OpponentDisplay_BigBattlesMedalImageField" X="-2000" Y="-1960" Width="32" Height="32"></Element>
+					</Element>
+				</Element>
+				<Element ID="InanimateObject_SelectionField" X="-1960" Y="-1999" Width="228" Height="84"></Element>
+			</Element>
+			<Element ID="LockOnOverlay" X="-1722" Y="-1967" Width="31" Height="31"></Element>
+		</Element>
+	</PanelFile>
+</opt>

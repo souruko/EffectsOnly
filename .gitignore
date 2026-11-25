@@ -1,0 +1,12 @@
+# python
+__pycache__/
+
+# SSG game art, only an input to the retired toolbar generator (make_toolbar.py); not ours to publish
+tests/reference/art/
+
+# CLAUDE
+CLAUDE.md
+.claude/
+
+# vs code
+.vscode/
