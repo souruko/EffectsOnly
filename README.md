@@ -8,7 +8,7 @@ Strips the **player vitals** (`ID_UISkin_AvatarPanel`) and **target vitals**
 (`ID_UISkin_OpponentPanel`) panels down to **just their buff/debuff trays**. Everything else on
 both plates goes: names, bars, numbers, portraits, level, rank and leader icons, the animated layer
 (the elite/nemesis rank flames, the ring and eye), the open-tapping marker, the lock-on reticle and
-the chest/door plate. The morale and power bars are meant to come from a plugin (`Gristle`).
+the chest/door plate. The morale and power bars are meant to come from a plugin ([`Gristle`](https://github.com/souruko/Gristle)).
 
 Version 2.5.0. Built 2026-11-25. The two vitals plates only, exactly as confirmed in 2.1.0; the toolbar override is gone (2.5.0).
 
